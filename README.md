@@ -2,7 +2,7 @@
 <p>A passionate frontend developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,react,css,tailwind,nodejs,express,spring,mongodb,mysql,git" />
 </p>
 <h2>⚡️ Where to find me</h2>
